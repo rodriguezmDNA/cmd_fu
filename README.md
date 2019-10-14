@@ -18,8 +18,10 @@ commandline_fu
 <details><summary> Answer</summary>
 
 <p>
+
 `./script.sh` or
 `directory/script.sh`
+
 </p>
 </details>
 
