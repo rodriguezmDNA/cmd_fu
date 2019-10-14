@@ -4,7 +4,7 @@ echo "Congrats! You ran your first bash script."
 
 echo "Run the next script to begin..."
 
-newFile="01_ready.sh"
+newFile="scripts/01_ready.sh"
 touch newFile
 
 
@@ -20,4 +20,4 @@ echo '  n|N) echo -e "\nCome back later" ;;' >> $newFile
 echo '  *)   echo -e "\nOptions are [y/n]" ;;' >> $newFile
 echo 'esac' >> $newFile
 
-chmod +x $newFile
+chmod +x $newFile		
